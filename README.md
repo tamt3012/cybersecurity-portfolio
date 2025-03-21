@@ -11,4 +11,5 @@ Hi my name is Tam, I am an aspiring **Cybersecurity Analyst** and a student at t
 
 ## Projects
 **Password Strength Checker** - A Python tool used to evaluate password security.
+
 **Secure Password Generator (In Progress)** - a tool generates strong, random passwords, while allowing users to choose length & complexity. 
