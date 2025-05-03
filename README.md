@@ -12,4 +12,8 @@ Hi my name is Tam, I am an aspiring **Cybersecurity Analyst** and a student at t
 ## Projects
 **Password Strength Checker** - A Python tool used to evaluate password security.
 
+**Phishing Awareness Research (2025)**
+***Enhancing Cybersecurity Awareness: Investigating Phishing Preparedness Among UMN Students***  
+A formal research project conducted for my Technical & Professional Writing course. I surveyed 50+ UMN students, interviewed faculty, and analyzed data to assess phishing preparedness. The report proposes realistic, student-centered strategies like Canvas modules and phishing simulations to improve awareness. 
+
 **Secure Password Generator (In Progress)** - a tool that generates strong, random passwords, while allowing users to choose length & complexity. 
